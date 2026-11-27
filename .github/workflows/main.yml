@@ -47,4 +47,3 @@ jobs:
         with:
           name: UrduCaptionStudio-debug-apk
           path: UrduCaptionStudio/app/build/outputs/apk/debug/app-debug.apk
-          
